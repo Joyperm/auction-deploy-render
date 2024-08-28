@@ -57,8 +57,6 @@
 (https://drive.google.com/file/d/1ATcTYjmjmijsonTCJt43HuVwlkXim_Ro/view?usp=sharing)
 
 ## References
-- [GitHub Repository-backend](https://github.com/NavneetBrar27/backend.git )
-- [GitHub Repository-frontend](https://github.com/NavneetBrar27/frontend.git )
 - [Link to the site](https://frontend-3-9u06.onrender.com/products)
 
 ## Example demo
