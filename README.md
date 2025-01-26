@@ -57,7 +57,7 @@
 (https://drive.google.com/file/d/1ATcTYjmjmijsonTCJt43HuVwlkXim_Ro/view?usp=sharing)
 
 ## References
-- [Link to the site](https://frontend-3-9u06.onrender.com/products)
+- [Link to the site](https://mern-auction-demo1.netlify.app)
 
 ## Example demo
 - **Home page**
